@@ -7,7 +7,7 @@ toolchain go1.23.6
 require (
 	github.com/stretchr/testify v1.10.0
 	go.temporal.io/sdk v1.25.1
-	gopkg.in/DataDog/dd-trace-go.v1 v1.58.1
+	github.com/DataDog/dd-trace-go/v2 v2.5.0
 )
 
 require (
